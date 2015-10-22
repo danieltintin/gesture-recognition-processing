@@ -1,0 +1,1 @@
+This project employs the [GART](http://wiki.cc.gatech.edu/ccg/projects/gt2k/gt2k) from Georgia Tech and integrates the functionality of defining and recognizing gestures in 2 dimensional space into the [Processing](http://www.processing.org) programming environment. It will be distributed as a Processing library with application examples.
